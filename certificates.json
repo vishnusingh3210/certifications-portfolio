@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Supermicro GPU Service Associate (SGA100A) Certification - HGX A100 8-GPU System (SYS-420GP-TNAR)",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-01-29",
+    "credentialId": "HZoDUoO4dY",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-associate-sga100a-hgx-a10.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service Specialist (SGH100S) Certification - HGX H100 8-GPU System (SYS-821GE-TNHR)",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-01",
+    "credentialId": "R4W27LhRLO",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-specialist-sgh100s-hgx-h1.pdf"
+  },
+  {
+    "name": "Overview of RMA Flow I: RMA Requests Creation",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "zTY2o0nFHL",
+    "category": "Technical Training & Operations",
+    "file": "certificates/supermicro-overview-of-rma-flow-i-rma-requests-c.pdf"
+  },
+  {
+    "name": "Overview of RMA Flow II: UPS Dispatch, Ticket Creation",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "HXnPtjk3gU",
+    "category": "Technical Training & Operations",
+    "file": "certificates/supermicro-overview-of-rma-flow-ii-ups-dispatch.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service Associate (SGH100A) Certification - HGX H100 8-GPU System (SYS-821GE-TNHR)",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "v5sLl2KIzc",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-associate-sgh100a-hgx-h10.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service Expert (SGH100E) Certification - HGX H100 8-GPU System (SYS-821GE-TNHR)",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "VaO226tqXR",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-expert-sgh100e-hgx-h100-8.pdf"
+  },
+  {
+    "name": "Supermicro Simply Double Storage Associate (SSDA) Certification System (SSG-620P-E1CR24H)",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "OjsIGAIiuq",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-simply-double-storage-associate-ssda.pdf"
+  },
+  {
+    "name": "Supermicro SuperBlade Service Associate (SSBIA) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "RYdKtCEW5L",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-superblade-service-associate-ssbia.pdf"
+  },
+  {
+    "name": "Supermicro Troubleshooting Fundamentals (STF) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "crSdL3180k",
+    "category": "Technical Training & Operations",
+    "file": "certificates/supermicro-troubleshooting-fundamentals-stf.pdf"
+  },
+  {
+    "name": "Supermicro X14 BigTwin Service Associate (SX14BTA) Certification SYS-222BT-HNR",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-02",
+    "credentialId": "tUxw2CfmiE",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-x14-bigtwin-service-associate-sx14bta.pdf"
+  },
+  {
+    "name": "Essentials of GSP",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "XGHNDtpo29",
+    "category": "Technical Training & Operations",
+    "file": "certificates/supermicro-essentials-of-gsp.pdf"
+  },
+  {
+    "name": "Supermicro GB200-NVL72 (SGB200NVL72) Training-ARS-121GLNBO",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "26L1xrSFWE",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gb200-nvl72-sgb200nvl72-training-ars.pdf"
+  },
+  {
+    "name": "Supermicro GB200/300 NVL72 Troubleshooting Training- ARS-121GLNBO-LCC",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "mPga5UwxgI",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gb200-300-nvl72-troubleshooting-train.pdf"
+  },
+  {
+    "name": "Supermicro H14 Hyper Service Associate (SH14HA) Certification - AS -1126HS-TN and AS -2126HS-TN",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "lCmncO4vQt",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-h14-hyper-service-associate-sh14ha-as.pdf"
+  },
+  {
+    "name": "Supermicro MI300X GPU System Associate (SMI300XA) Certification AS -8125GS-TNMR2 System",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "jQVOOvbTDa",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi300x-gpu-system-associate-smi300xa.pdf"
+  },
+  {
+    "name": "Supermicro MI325X/MI350X 8U AirCooled Associate (SMI325X8UACA) Service Certification - AS -8126GSTNMR",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "NXVYFQNJOa",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi325x-mi350x-8u-aircooled-associate-smi325x8ua.pdf"
+  },
+  {
+    "name": "Supermicro Outdoor Edge IP65 Service (SOEIP65) Certification - SYSE403-9D-16C-IPD2",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "VUHRbmmnAF",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-outdoor-edge-ip65-service-soeip65-sys.pdf"
+  },
+  {
+    "name": "Supermicro Product Introduction & Naming Rules",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "djh6mQEPBJ",
+    "category": "Technical Training & Operations",
+    "file": "certificates/supermicro-product-introduction-and-naming-rules.pdf"
+  },
+  {
+    "name": "Supermicro Software Tools Overview (SSTO) Training Course Completion",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "Kie68JeANU",
+    "category": "Supermicro Software & Management",
+    "file": "certificates/supermicro-software-tools-overview-ssto-training.pdf"
+  },
+  {
+    "name": "Supermicro X14 BigTwin Service Specialist (SX14BTS) Certification SYS-222BT-HNR",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-03",
+    "credentialId": "s3fiWbH8ap",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-x14-bigtwin-service-specialist-sx14bt-sx14bts.pdf"
+  },
+  {
+    "name": "Supermicro H14 Hyper Service Specialist (SH14HS) Certification - AS -1126HS-TN and AS -2126HS-TN",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-04",
+    "credentialId": "rhuxKZkGCR",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-h14-hyper-service-specialist-sh14hs-a.pdf"
+  },
+  {
+    "name": "Supermicro X14 Hyper Service Associate (SX14HA) Certification SYS-222H-TN",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-04",
+    "credentialId": "wNi5OpkUzo",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-x14-hyper-service-associate-sx14ha-sy.pdf"
+  },
+  {
+    "name": "Supermicro X14 Hyper Service Specialist (SX14HS) Certification SYS-222H-TN",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-04",
+    "credentialId": "qfK5tv7gy2",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-x14-hyper-service-specialist-sx14hs-s.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service Specialist (SGA100S) Certification - HGX A100 8-GPU System (SYS-420GP-TNAR)",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-05",
+    "credentialId": "r78bW26yaW",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-specialist-sga100s-hgx-a1.pdf"
+  },
+  {
+    "name": "Supermicro GB200/300 NVL72 Liquid Cooled Service Associate (SGB200/300NVL72LCA) Certification - ARS-121GL-NBO-LCC",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-09",
+    "credentialId": "kAmMRYLV5M",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gb200-300-nvl72-liquid-cooled-service-sgb200-30.pdf"
+  },
+  {
+    "name": "Supermicro GB200/300 NVL72 Liquid Cooled Service Specialist (SGB200/300NVL72LCS) Certification - ARS-121GL-NBO-LCC",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-10",
+    "credentialId": "WUDXCcBD9u",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gb200-300-nvl72-liquid-cooled-service-2657c1.pdf"
+  },
+  {
+    "name": "Supermicro MI325X/MI350X 8U AirCooled Specialist (SMI325X8UACS) Service Certification - AS -8126GSTNMR",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-11",
+    "credentialId": "rE1fRbbv9R",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi325x-mi350x-8u-aircooled-specialist-smi325x8u.pdf"
+  },
+  {
+    "name": "Supermicro MI325X/MI350X 8U AirCooled Expert (SMI325X8UACE) Service Certification - AS -8126GSTNMR",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-12",
+    "credentialId": "uaEX4dF3XQ",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi325x-mi350x-8u-aircooled-expert-smi-smi325x8u.pdf"
+  },
+  {
+    "name": "Supermicro MI300X GPU Service Expert (SMI300XE) Certification - AS -8125GS-TNMR2 System",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-16",
+    "credentialId": "gNfKgMosJT",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi300x-gpu-service-expert-smi300xe-as.pdf"
+  },
+  {
+    "name": "Supermicro MI300X GPU Service Specialist (SMI300XS) Certification AS -8125GS-TNMR2 System",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-16",
+    "credentialId": "Q3o2pIbBNx",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi300x-gpu-service-specialist-smi300x-smi300xs.pdf"
+  },
+  {
+    "name": "Supermicro MI325X/MI355X 4U Liquid-Cooled Associate (SMI325X4ULCA) Service Certification - AS -4126GS-NMR-LCC",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-16",
+    "credentialId": "jP0GgkGYNA",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi325x-mi355x-4u-liquid-cooled-associ-smi325x4u.pdf"
+  },
+  {
+    "name": "Supermicro MI325X/MI355X 4U Liquid-Cooled Specialist (SMI325X4ULCS) Service Certification - AS -4126GS-NMR-LCC",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-16",
+    "credentialId": "2ZQeXSYioF",
+    "category": "AMD GPU Infrastructure",
+    "file": "certificates/supermicro-mi325x-mi355x-4u-liquid-cooled-specia-smi325x4u.pdf"
+  },
+  {
+    "name": "Supermicro B200 10U Air-Cooled Service Expert (SB20010UACE) Certification-SYS-A22GA-NBRT",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-17",
+    "credentialId": "prDzBwUTE6",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b200-10u-air-cooled-service-expert-sb-sb20010ua.pdf"
+  },
+  {
+    "name": "Supermicro B300 8U Air-Cooled Service Specialist (SB3008UACS) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-17",
+    "credentialId": "w2n7obEDP2",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b300-8u-air-cooled-service-specialist-sb3008uac.pdf"
+  },
+  {
+    "name": "Supermicro B200 4U Liquid Cooled GPU Service Associate (SB2004ULCA) Certification - SYS-42XXX-NBRTLCC System",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-18",
+    "credentialId": "uxx8eZdvbU",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b200-4u-liquid-cooled-gpu-service-ass-sb2004ulc.pdf"
+  },
+  {
+    "name": "Supermicro B200 4U Liquid Cooled GPU Service Specialist (SB2004ULCS) Certification - SYS-42XXX-NBRTLCC System",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-18",
+    "credentialId": "ZnxUrP6eMB",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b200-4u-liquid-cooled-gpu-service-spe-sb2004ulc.pdf"
+  },
+  {
+    "name": "Supermicro B200 10U Air-Cooled Associate (SB20010UACA) Service Certification- SYS-A22GA-NBRT",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-19",
+    "credentialId": "JU58pxlzdD",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b200-10u-air-cooled-associate-sb20010-sb20010ua.pdf"
+  },
+  {
+    "name": "Supermicro B300 8U Air-Cooled Service Associate (SB3008UACA) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-19",
+    "credentialId": "ELbw3tmvaf",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b300-8u-air-cooled-service-associate-sb3008uaca.pdf"
+  },
+  {
+    "name": "Supermicro B200 10U Air-Cooled Specialist (SB20010UACS) Service Certification- SYS-A22GA-NBRT",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-20",
+    "credentialId": "njPlTNPR3o",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b200-10u-air-cooled-specialist-sb2001-sb20010ua.pdf"
+  },
+  {
+    "name": "Supermicro SuperBlade Service Specialist (SSBIS) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-23",
+    "credentialId": "gyDvuzZ3T3",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-superblade-service-specialist-ssbis.pdf"
+  },
+  {
+    "name": "Supermicro B300 8U Air-Cooled Service Expert (SB3008UACE) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-02-27",
+    "credentialId": "0z2YS8cq27",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-b300-8u-air-cooled-service-expert-sb3-sb3008uac.pdf"
+  },
+  {
+    "name": "Supermicro FlexTwin 2U LiquidCooled Service Associate (SFT2ULCA) Certification - SYS-222FT-HEA-ALC",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-03-04",
+    "credentialId": "nE0PhZNjRA",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-flextwin-2u-liquidcooled-service-asso-sft2ulca.pdf"
+  },
+  {
+    "name": "Supermicro GB200/300 NVL72 Field Troubleshooting Quick Reference Guide",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-03-12",
+    "credentialId": "u8GzKMGZkw",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gb200-300-nvl72-field-troubleshooting.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service H100/H200 Associate (H100/H200A) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-03-15",
+    "credentialId": "s2ucpM3kJ5",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-h100-h200-associate-h100-h100-h200a.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service H100/H200 Expert (H100/H200E) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-03-15",
+    "credentialId": "Iv9eUDyimC",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-h100-h200-expert-h100-h20-h100-h200.pdf"
+  },
+  {
+    "name": "Supermicro GPU Service H100/H200 Specialist (H100/H200S) Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-03-15",
+    "credentialId": "SI2fQ2SXe3",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-gpu-service-h100-h200-specialist-h100-h100-h200.pdf"
+  },
+  {
+    "name": "Supermicro X14 5U PCIe GPU Service Associate (SX145UPCIeGPUA) Certification - SYS-522GA-NRT",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-05-03",
+    "credentialId": "HDQ5tVQM6a",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-x14-5u-pcie-gpu-service-associate-sx1-sx145upci.pdf"
+  },
+  {
+    "name": "Supermicro X14 5U PCIe GPU Service Specialist (SX145UPCIeGPUS) Certification - SYS-522GA-NRT",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-05-03",
+    "credentialId": "JnOAcC5ZBr",
+    "category": "GPU & AI Infrastructure",
+    "file": "certificates/supermicro-x14-5u-pcie-gpu-service-specialist-sx-sx145upci.pdf"
+  },
+  {
+    "name": "SuperCloud Composer (SCC) Installation and Troubleshooting Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-07-27",
+    "credentialId": "kYXzJAO0jM",
+    "category": "Supermicro Software & Management",
+    "file": "certificates/supermicro-supercloud-composer-scc-installation.pdf"
+  },
+  {
+    "name": "Supermicro 4U Top-Loading Storage Server Service Associate (S4UTLSA) Certification - SSG-542B-E1CR90",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-07-27",
+    "credentialId": "bijJKAmgM4",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-4u-top-loading-storage-server-service-s4utlsa.pdf"
+  },
+  {
+    "name": "Supermicro 4U Top-Loading Storage Server Service Specialist (S4UTLSS) Certification - SSG-542B-E1CR90",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-07-27",
+    "credentialId": "1Gu9hx4BDt",
+    "category": "Supermicro Server Infrastructure",
+    "file": "certificates/supermicro-4u-top-loading-storage-server-service-s4utlss.pdf"
+  },
+  {
+    "name": "SuperCloud Composer (SCC-M) Management and Monitoring Certification",
+    "issuer": "Supermicro Computer Inc.",
+    "date": "2026-09-13",
+    "credentialId": "9axEGiDAG8",
+    "category": "Supermicro Software & Management",
+    "file": "certificates/supermicro-supercloud-composer-scc-m-management.pdf"
+  }
+]
